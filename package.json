@@ -1,0 +1,27 @@
+{
+  "name": "highlightjs-web-idl",
+  "version": "0.1.0",
+  "description": "highlight.js syntax definition for WEB IDL",
+  "main": "src/webidl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-web-idl.git"
+  },
+  "keywords": [
+    "web",
+    "IDL",
+    "WebIDL",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Brahim DJOUDI <br.djoudi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-web-idl/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-web-idl"
+}

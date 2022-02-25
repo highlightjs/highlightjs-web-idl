@@ -15,7 +15,7 @@ var hljs = require('highlightjs');
 var hljsWebIDL = require('highlightjs-web-idl');
 
 hljs.registerLanguage("webidl", hljsWebIDL);
-hljs.initHighlightingOnLoad();
+hljs.highlightAll();
 ```
 
 ## License
